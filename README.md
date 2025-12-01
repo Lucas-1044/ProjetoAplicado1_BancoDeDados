@@ -1,19 +1,16 @@
-# ProjetoAplicado1_BancoDeDados
+# 📊 PROJETO APLICADO I
 Repositório criado para possibilitar o desenvolvimento das entregas relacionada as aulas do curso 'Projeto Aplicado 1' da turma de Banco de Dados EAD da Mackenzie
 
-# Documentação do Projeto
-
-https://1drv.ms/w/c/518935844e05cc19/EfoU9cJoqWlFgv57d-4XkMgB-hEzQXqDJ9fk7MBh_lUx7A?e=GZHZdT
-
-# Objetivo do Projeto
+# 📌 Objetivo do projeto
 Este projeto tem como objetivo desenvolver um painel analítico interativo com base nos dados de atendimentos. A proposta é aplicar técnicas de análise exploratória e visualização de dados.
 
-# Equipe
 
-LUANA ISABELLA XAVIER
+# 👥 Grupo
 
-HENRIQUE SARMENTO
+LUANA ISABELLA XAVIER - RA 10443026
 
-LUCAS JOSÉ DE CARVALHO
+HENRIQUE SARMENTO - RA 1073826
 
-SANDRO NEWVES VICTORIO
+LUCAS JOSÉ DE CARVALHO - RA 10441680
+
+SANDRO NEWVES VICTORIO - RA 10740640
